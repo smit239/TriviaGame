@@ -3,12 +3,13 @@
 body{
     background-image: url(../images/2020_Vette.JPG);
     text-align: center;
-    color: rgb(246, 250, 3);
+    color: rgb(114, 250, 3);
+    font-size: 0vmin;
     
 }
 .jumbotron {
     background-color: transparent;
     color: rgb(246, 250, 3);
-    padding: 20px;
+    padding: 10px;
 
 }

@@ -3,7 +3,7 @@
 body{
     background-image: url(../images/2020_Vette.JPG);
     text-align: center;
-    color: rgb(114, 250, 3);
+    /* color: rgb(114, 250, 3); */
     font-size: 0vmin;
     
 }
@@ -12,4 +12,7 @@ body{
     color: rgb(246, 250, 3);
     padding: 10px;
 
+}
+#wrapper {
+    background: rgba(255,255,255,.50);
 }

@@ -21,8 +21,6 @@ var questions = [{
     question: "What is a Corvette?",
     answers: ["Built Ford Tough...", "Known also as a front engine, rear drive, two-door, two-passenger sports car manufactured and marketed by Chevrolet.", "Life Too Short to drive boring cars."],
     correctAnswer: "MGM Grand"
-}, {
-
 }];
 
 // Variable that will hold the setInterval

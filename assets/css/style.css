@@ -5,6 +5,11 @@ body{
     text-align: center;
     /* color: rgb(114, 250, 3); */
     font-size: 0vmin;
+    width: 100vw;
+    height: 100vh;
+    background-repeat: no repaet;
+    background-size:100% 100%;
+    width:100%;
     
 }
 .jumbotron {

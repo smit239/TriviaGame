@@ -4,11 +4,11 @@ var panel = $("#quiz-area");
 var questions = [{
     question: "Originally manufactured in Flint, Michigan as well as St. Louis, Missouri, the Corvette has been manufactured where since 1981?",
     answers: ["In Bowling Green, Kentucky", "In Houston Texas", "In Detroit Michigan"],
-    correctAnswer: "In Bowling Green Kentucky"
+    correctAnswer: "In Bowling Green, Kentucky"
 }, {
     question: "The Corvette has since become widely known as what?",
-    answers: ["American's Sports Car", "The Foreign Fast Car", "The Flamingo"],
-    correctAnswer: "American's Sports Car"
+    answers: ["American Sports Car", "The Foreign Fast Car", "The Flamingo"],
+    correctAnswer: "American Sports Car"
 }, {
     question: "When was the first generation of Corvette introduced?",
     answers: ["Late in the 1953 model year.", "Early 1960 model year.", "Late in the 1965 model year."],
